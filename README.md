@@ -1,7 +1,7 @@
 - # 👋 Hi, I’m Ankita Dubey  
 
 - 💻 Passionate about becoming a **Software Developer**  
-- 🌐 Skilled in **Full-Stack Development** (HTML, CSS, JavaScript, React, Node.js, MongoDB, Express)  
+- 🌐 Skilled in **Full-Stack Development** (React, React Native,Typescript, Node.js, MongoDB, Express)  
 - ☕ Strong knowledge of **Java**, **DSA**, and **OOPs**  
 - 🚀 Currently learning & building projects to sharpen my development and problem-solving skills  
 - 🎯 Goal: To contribute to impactful software projects and grow as a developer  
